@@ -27,6 +27,8 @@ int main() {
 
     int ch, a, b;
 
+    cout<< "enter char value and two numbers you want to perform action with"
+
     cin >> ch >> a >> b;
 
     caller(ch, a, b);
